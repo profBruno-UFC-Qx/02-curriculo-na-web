@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@linthtml/linthtml": "^0.9.5",
-    "eslint": "^8.48.0",
+    "eslint": "^9.26.0",
     "stylelint": "^15.10.3",
     "stylelint-config-standard": "^34.0.0"
   }
